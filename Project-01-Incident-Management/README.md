@@ -1,35 +1,28 @@
-# Project 01 – Incident Management
+# ServiceNow Portfolio
 
-## Objective
-Demonstrate the complete lifecycle of handling an incident in ServiceNow.
+Welcome to my ServiceNow portfolio.
 
-## Skills Demonstrated
-- Incident Management
-- Ticket Prioritization
-- User Verification
+I created this repository to document my hands-on learning while preparing for the ServiceNow Certified System Administrator (CSA) certification and my first ServiceNow role.
+
+## Current Projects
+
+### Project 01 – Incident Management
+- Incident lifecycle
+- Prioritization
+- Assignment groups
 - Troubleshooting
-- Assignment Groups
 - Documentation
-- ITIL Best Practices
 
-## Scenario
-A user reports they cannot access Outlook after restarting their computer.
+### Coming Soon
 
-## Process
-1. Verified the user's identity.
-2. Gathered information about the issue.
-3. Determined this was an Incident.
-4. Assessed impact and urgency.
-5. Assigned the correct priority.
-6. Performed basic troubleshooting.
-7. Escalated if necessary.
-8. Documented all actions.
-9. Resolved and closed the incident.
+- Project 02 – Service Requests
+- Project 03 – Knowledge Management
+- Project 04 – Change Management
+- Project 05 – CMDB
+- Project 06 – Reports & Dashboards
+- Project 07 – Flow Designer
+- Project 08 – User Administration
 
-## Status
-✅ Completed
+## Goal
 
-## Future Improvements
-- Add screenshots from my ServiceNow Personal Developer Instance.
-- Add a flowchart of the incident process.
-- Add a short demo video.
+Become a ServiceNow System Administrator and continue growing into a ServiceNow Developer and Solution Architect.
